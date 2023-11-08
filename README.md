@@ -27,7 +27,8 @@ This PowerShell script simplifies the process of creating multiple port groups o
 
 1. Open a PowerShell terminal.
 2. Navigate to the project directory.
-3. Run the script using the following command:
+3. Create a csv file(semi-colon separation) with two rows named: portgroup and vlan
+4. Run the script using the following command:
 
    ```powershell
    ./Create-PortGroups.ps1
