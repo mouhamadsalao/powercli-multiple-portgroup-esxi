@@ -1,0 +1,5 @@
+portgroup;vlan
+management;1801
+production;1802
+monitoring;1803
+backup;1804
